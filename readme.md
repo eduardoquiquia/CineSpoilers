@@ -67,11 +67,11 @@ Este proyecto fue desarrollado con las siguientes tecnologías:
 ## 7. Agregando app actors
 ![ADD ACTORS APP](docs/addactors.png)
 
-## 8. Obteniendo actor en formato json
-![GET ACTOR](docs/getactor.png)
-
 ## 8. Creando Actors desde Admin
 ![ADD ACTOR](docs/addactor.png)
 
-## 9. Obteniendo actor en front
+## 9. Obteniendo actor en formato json
+![GET ACTOR](docs/getactor.png)
+
+## 10. Obteniendo actor en front
 ![ACTOR FRONT](docs/actorfront.png)
