@@ -39,41 +39,39 @@ Este proyecto fue desarrollado con las siguientes tecnologías:
 - GitHub
 
 ## **🖼️ Evidencias** 
-## 1. Listar peliculas (GET)
-**Ruta:** `GET /api/movies/`
-![GET movie](docs/eduardo/image.png)
+## 1. Primera evidencia (Preparación de entorno)
+![LEVANTAMIENTO](docs/levantamiento.png)
 
-## 2. Crear pelicula (POST)
-**Ruta:** `POST /api/movies/`
-![POST movie](docs/eduardo/moviegk.png)
+## 2. Creando movie desde Admin
+![MOVIE DESDE ADMIN](docs/createmovieadmin.png)
+![alt text](docs/movieadmin.png)
 
-## 3. Actualizar pelicula (PUT)
-**Ruta:** `PUT /api/movies/4`
-![PUT movie](docs/eduardo/updategk.png)
+## 3. Obteniendo pelicula sin relacion con genres
+![MOVIE SIN GENRES](docs/singenres.png)
 
-## 4. Eliminar pelicula (DELETE)
-**Ruta:** `DELETE /api/movies/4`
-![DELETE movie](docs/eduardo/deletegk.png)
+## 4. Agregando genres a movie desde admin
+![ADD GENRES A MOVIE](docs/addgenres.png)
 
-## 5. Data Base - Movies
-![TABLA MOVIES](docs/eduardo/db_movies.png)
+## 5. Obteniendo pelicula con relacion de generos
+![MOVIE JSON](docs/moviewithgenres.png)
 
-## 6. Listar genres
-**Ruta:** `GET /api/genres/`
-![GET genres](docs/eduardo/genres.png)
---
-## 7. Crear genres
-**Ruta:** `POST /api/genres/`
-![POST genres](docs/eduardo/genre1.png)
-![POST genres](docs/eduardo/genre2.png)
+## 4. Obteniendo peliculas en front
+![MOVIES FRONT](docs/moviesreact.png)
 
-## 8. Actualizar genre
-**Ruta:** `PUT /api/genres/1`
-![PUT genre](docs/eduardo/genret.png)
+## 5. Obteniendo generos en formato json
+![GENRES](docs/genres.png)
 
-## 9. Eliminar genre
-**Ruta:** `DELETE /api/genres/1`
-![DELETE movie](docs/eduardo/genredelete.png)
+## 6. Obteniendo generos en front
+![GENRES FRONT](docs/genresfront.png)
 
-## 10. Data Base - Genres
-![TABLA GENRES](docs/eduardo/db_genres.png)
+## 7. Agregando app actors
+![ADD ACTORS APP](docs/addactors.png)
+
+## 8. Obteniendo actor en formato json
+![GET ACTOR](docs/getactor.png)
+
+## 8. Creando Actors desde Admin
+![ADD ACTOR](docs/addactor.png)
+
+## 9. Obteniendo actor en front
+![ACTOR FRONT](docs/actorfront.png)
